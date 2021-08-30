@@ -1,0 +1,10 @@
+comprimir todas las imagenes 
+agregue este keywords(comidas,La comarca,restaurante,pizzas,Pastas,Postres,Bebidas)
+le cambie el titulo a las paginas secunadias (todos tenian la comarca y les puse entrada,postres,pizzas,bebidas,pastas)
+agrege descripcion (es una carta de un restaurante llamado La Comarca,que enseña las comidas como ,pizzas,entradas,pastas,bebidas,bebidas)
+borre codigo sobrante de html 
+borre algunas clases que no utilizaba 
+cree una pagina de error 404
+aregle los h1,h2,h3, los puse gerarcicamente 
+adapte mi sitio a los distintos tipos de pantalla 
+las redes no promosionan lo  mismo que mi sitio 
